@@ -88,6 +88,16 @@ AI field app for serial-number extraction, barcode scanning and automated report
 
 ---
 
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/soumya4o4/soumya4o4/gh-pages/github-contribution-grid-snake-dark.svg" alt="Contribution snake" />
+
+</div>
+
+---
+
 ## 🎯 Currently Building
 
 **Agentic AI · LLM Applications · Backend Architecture · Async Systems · AI Automation**
