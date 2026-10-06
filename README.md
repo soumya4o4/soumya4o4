@@ -51,7 +51,7 @@ Third-party Integrations
 Production-ready Applications
 
 
----
+```text
 
 ## 🚀 Featured Projects
 
