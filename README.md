@@ -133,18 +133,7 @@ Ship 🚀
 <details open>
 <summary><strong>✈️ WhatsApp Travel Concierge</strong> · Multi-Agent AI Travel Assistant</summary>
 
-A WhatsApp-based AI travel concierge for complete trip planning and booking workflows.
-
-**Highlights**
-
-- 🧠 Multi-agent architecture with Claude-based intent routing
-- ✈️ Flight, hotel, cab and visa specialist agents
-- 🎬 AI Reel-to-Trip pipeline using FFmpeg + Whisper + Vision
-- 🔎 Live flight search & booking with Duffel API
-- 🏨 Live hotel inventory with Hotelbeds API
-- 💳 Razorpay payment, confirmation & refund workflows
-- 📄 AI-powered visa document verification
-- 🧠 Conversational memory with PII filtering
+Multi-agent AI travel assistant for trip planning and booking.
 
 **Stack**
 
@@ -155,16 +144,7 @@ A WhatsApp-based AI travel concierge for complete trip planning and booking work
 <details>
 <summary><strong>🤖 Automate</strong> · AI Job Application Automation Platform</summary>
 
-An AI-powered platform for automating repetitive job application workflows.
-
-**Highlights**
-
-- 🌐 Playwright agents for Workday, Greenhouse & Ashby
-- 🧠 LLM-powered browser automation
-- ⚙️ Async job processing with Inngest
-- 🔄 Automatic retries & failure recovery
-- 🚦 Per-user concurrency control
-- 📝 AI-powered answer review & validation
+AI job-application automation using browser agents, LLMs and async workflows.
 
 **Stack**
 
@@ -175,16 +155,7 @@ An AI-powered platform for automating repetitive job application workflows.
 <details>
 <summary><strong>☀️ SolarScanner</strong> · AI Field Documentation App</summary>
 
-A cross-platform application built for solar field agents.
-
-**Highlights**
-
-- 📸 AI-powered serial number extraction
-- 🔍 Vision + barcode scanning pipeline
-- 🧠 OCR hallucination filtering
-- 📦 Multi-barcode detection
-- 📄 Automated PDF / Word report generation
-- 📡 Offline-first workflow
+AI field app for serial-number extraction, barcode scanning and automated reports.
 
 **Stack**
 
@@ -242,22 +213,6 @@ A cross-platform application built for solar field agents.
 
 </div>
 
-<details>
-<summary><strong>🏆 GitHub Achievements</strong></summary>
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=soumya4o4&theme=discord&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" alt="GitHub trophies" />
-</div>
-
-</details>
-
-<details>
-<summary><strong>📈 Contribution Activity</strong></summary>
-
-My GitHub activity, streak, language mix and contribution graph are shown above and update automatically from my GitHub profile.
-
-</details>
-
 
 ---
 
@@ -268,13 +223,6 @@ My GitHub activity, streak, language mix and contribution graph are shown above 
 <img src="https://raw.githubusercontent.com/soumya4o4/soumya4o4/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake animation" />
 
 </div>
-
-<details>
-<summary><strong>What is this?</strong></summary>
-
-A contribution-grid animation generated automatically from GitHub activity.
-
-</details>
 
 ---
 
