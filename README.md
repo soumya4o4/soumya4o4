@@ -1,5 +1,30 @@
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&height=170&color=0:0f172a,50:312e81,100:7c3aed&text=SOUMYA%20MAHALE&fontSize=46&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%20%26%20Automation&descAlignY=62&animation=fadeIn" width="100%" alt="Soumya Mahale banner" />
+
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=19&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=720&lines=Building+AI-powered+products+%F0%9F%A4%96;Turning+messy+workflows+into+automation+%E2%9A%A1;Backend+%2B+LLMs+%2B+Agentic+Systems+%F0%9F%A7%A0;Shipping+production+software+that+actually+works+%F0%9F%9A%80" alt="Typing animation" />
+</a>
+
+<br />
+
+<a href="mailto:soumyamahale125@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://github.com/soumya4o4"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<img src="https://komarev.com/ghpvc/?username=soumya4o4&label=PROFILE%20VIEWS&color=7c3aed&style=for-the-badge" alt="Profile views" />
+
+<br /><br />
+
+<table><tr>
+<td align="center"><b>🤖 AI</b><br/>Agents & LLM Apps</td>
+<td align="center"><b>⚙️ Backend</b><br/>FastAPI & Async Systems</td>
+<td align="center"><b>🌐 Full Stack</b><br/>Next.js & TypeScript</td>
+<td align="center"><b>🚀 DevOps</b><br/>Docker & Deployments</td>
+</tr></table>
+
+</div>
+
+<div align="center">
+
 # Hey 👋, I'm Soumya Mahale
 
 ### Software Engineer · Full Stack Developer · AI & Automation
@@ -171,47 +196,24 @@ A cross-platform application built for solar field agents.
 
 ## 🛠️ Tech Stack
 
-<details open>
-<summary><strong>💻 Languages</strong></summary>
+<div align="center">
 
-<code>Python</code> <code>TypeScript</code> <code>JavaScript</code> <code>SQL</code>
+### 💻 Languages
+<img src="https://skillicons.dev/icons?i=python,ts,js&theme=dark" alt="Languages" />
 
-</details>
+### 🎨 Frontend & Mobile
+<img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,html,css&theme=dark" alt="Frontend and mobile" />
 
-<details>
-<summary><strong>⚙️ Backend</strong></summary>
+### ⚙️ Backend & Data
+<img src="https://skillicons.dev/icons?i=fastapi,nodejs,postgres,mongodb,mysql,redis&theme=dark" alt="Backend and databases" />
 
-<code>FastAPI</code> <code>Node.js</code> <code>REST APIs</code> <code>WebSockets</code> <code>Webhooks</code> <code>Async Systems</code>
+### 🤖 AI & Automation
+<code>OpenAI</code> <code>Claude</code> <code>Whisper</code> <code>Vision</code> <code>OCR</code> <code>Playwright</code> <code>Agentic AI</code>
 
-</details>
+### ☁️ DevOps & Tools
+<img src="https://skillicons.dev/icons?i=docker,git,github,vercel&theme=dark" alt="DevOps tools" />
 
-<details>
-<summary><strong>🎨 Frontend & Mobile</strong></summary>
-
-<code>Next.js</code> <code>React</code> <code>React Native</code> <code>Tailwind CSS</code>
-
-</details>
-
-<details>
-<summary><strong>🤖 AI & Automation</strong></summary>
-
-<code>OpenAI</code> <code>Claude</code> <code>LLM Agents</code> <code>Computer Vision</code> <code>Whisper</code> <code>Playwright</code> <code>OCR</code>
-
-</details>
-
-<details>
-<summary><strong>🗄️ Data</strong></summary>
-
-<code>PostgreSQL</code> <code>MongoDB</code> <code>MySQL</code> <code>Redis</code>
-
-</details>
-
-<details>
-<summary><strong>🐳 DevOps & Tools</strong></summary>
-
-<code>Docker</code> <code>Git</code> <code>GitHub</code> <code>Vercel</code> <code>Render</code>
-
-</details>
+</div>
 
 ---
 
@@ -241,9 +243,36 @@ A cross-platform application built for solar field agents.
 </div>
 
 <details>
+<summary><strong>🏆 GitHub Achievements</strong></summary>
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=soumya4o4&theme=discord&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" alt="GitHub trophies" />
+</div>
+
+</details>
+
+<details>
 <summary><strong>📈 Contribution Activity</strong></summary>
 
 My GitHub activity, streak, language mix and contribution graph are shown above and update automatically from my GitHub profile.
+
+</details>
+
+
+---
+
+## 🐍 Contribution Journey
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/soumya4o4/soumya4o4/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake animation" />
+
+</div>
+
+<details>
+<summary><strong>What is this?</strong></summary>
+
+A contribution-grid animation generated automatically from GitHub activity.
 
 </details>
 
@@ -267,11 +296,14 @@ My GitHub activity, streak, language mix and contribution graph are shown above 
 
 ## 💡 Engineering Philosophy
 
-> **Build software that doesn't just work — build software that handles the messy real world.**
-
 <div align="center">
 
-**AI** → **APIs** → **Automation** → **Data** → **Real Users**
+### **Build software that doesn't just work —**
+### **build software that handles the messy real world.**
+
+<br />
+
+<code>AI</code> → <code>APIs</code> → <code>Automation</code> → <code>Data</code> → <code>Real Users</code>
 
 </div>
 
